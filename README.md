@@ -21,7 +21,7 @@ By analyzing customer behaviors and attributes — such as **watch time**, **sub
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - **Python** (Pandas, NumPy, Scikit-learn)
 - **Matplotlib** & **Seaborn** (for visualizations)
