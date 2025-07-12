@@ -45,5 +45,3 @@ By analyzing customer behaviors and attributes — such as **watch time**, **sub
 
 ---
 
-##  Project Structure
-
